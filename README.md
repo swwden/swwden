@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" alt="drawing" width="300"/> 
+<img src="https://i.pinimg.com/originals/cc/1f/01/cc1f0142bade32b504a7ac64c571fdb8.gif" alt="drawing" width="300"/> 
 hi i'm a 15yo fullstack dev!
 
 ### me
