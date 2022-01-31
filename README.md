@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/cc/1f/01/cc1f0142bade32b504a7ac64c571fdb8.gif" alt="drawing" width="300"/> 
+<img src="https://github.com/MayMeow/MayMeow/raw/master/mm.gif" alt="drawing"/> 
 hi i'm a 15yo fullstack dev!
 
 ### me
