@@ -1,4 +1,6 @@
 # <3
+
+![img](https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif)
 ### Github Stats
 ![Swwden's GitHub stats](https://github-readme-stats.vercel.app/api?username=swwden&show_icons=true&theme=dark)
 
