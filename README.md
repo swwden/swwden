@@ -2,7 +2,7 @@
 
 Hi! i'm a 15yo dev, actually studying analysis and systems development at [Fatec-Sp](http://www.fatecsp.br/)
 
-![img](https://github-readme-stats.vercel.app/api?username=swwden) ![img](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swwden&theme=vue)
+![img](https://github-readme-stats.vercel.app/api?username=swwden&theme=dark) ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=swwden&theme=dark)
 
 ## Technologies that i use
 ![img](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
