@@ -2,7 +2,7 @@
 
 Hi! i'm a 15yo dev, actually studying analysis and systems development at [Fatec-Sp](http://www.fatecsp.br/)
 
-![img](https://github-readme-stats.vercel.app/api?username=swwden&theme=dark) ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=swwden&theme=dark)
+![img](https://github-readme-stats.vercel.app/api?username=swwden&theme=dark)
 
 ## Technologies that i use
 ![img](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -10,7 +10,6 @@ Hi! i'm a 15yo dev, actually studying analysis and systems development at [Fatec
 ![img](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![img](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![img](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![img](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![img](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![img](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
