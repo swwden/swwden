@@ -1,2 +1,3 @@
-<img src="https://github.com/MayMeow/MayMeow/raw/master/mm.gif" alt="drawing"/> 
-hi i'm a 15yo fullstack dev!
+<a href="mailto:contatomatt@protonmail.com">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</a>
