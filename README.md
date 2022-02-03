@@ -5,7 +5,7 @@
 
 ![img](https://media3.giphy.com/headers/colorful-courier/ammr2uN8JUE3.gif)
 
-Hi! i'm a 15yo dev, actually studying analysis and systems development at [Fatec-Sp](http://www.fatecsp.br/)
+Hi! i'm a 15yo dev, actually studying analysis and systems development
 
 If you want to contact me just hit me up in one of my social accounts above!
 
