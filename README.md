@@ -3,11 +3,13 @@
 [![Protonmail Badg](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&color=black)](mailto:contatomatt@protonmail.com)
 [![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&color=black)](https://soundcloud.com/swwden)
 
-![img](https://media3.giphy.com/headers/colorful-courier/ammr2uN8JUE3.gif)
+### hi!
 
-Hi! i'm a 15yo dev, actually studying analysis and systems development
+<img onload="alert(0)" align="right" src="https://github-readme-stats.vercel.app/api?username=swwden&count_private=true&show_icons=true&theme=dark">
 
-If you want to contact me just hit me up in one of my social accounts above!
+* i'm 15yo 
+* i live in brazil
+* i like watching anime 
 
 ### working with 💸
 
