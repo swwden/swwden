@@ -4,12 +4,20 @@
 [![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&color=black)](https://soundcloud.com/swwden)
 
 ### hi!
+---
 
-<img onload="alert(0)" align="right" src="https://github-readme-stats.vercel.app/api?username=swwden&count_private=true&show_icons=true&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=swwden&count_private=true&show_icons=true&theme=dark">
 
+
+#### about me
 * i'm 15yo 
-* i live in brazil
-* i like watching anime 
+* living in brazil
+* javascript enthusiast
+* coding 24/7
+* i hate porn
+* in god we trust, for everything else, use a blockchain
+
+---
 
 ### working with 💸
 
