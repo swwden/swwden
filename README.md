@@ -1,5 +1,5 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=black)](https://discord.com/users/861669776245915710)
-[![My Anime List Badge](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white&color=black)](https://myanimelist.net/profile/swwden)
+[![My Anime List Badge](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white&color=black)](https://myanimelist.net/animelist/swwden)
 [![Protonmail Badg](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&color=black)](mailto:contatomatt@protonmail.com)
 [![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&color=black)](https://soundcloud.com/swwden)
 
